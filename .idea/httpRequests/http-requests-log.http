@@ -1,0 +1,40 @@
+GET http://127.0.0.1:8000/users
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-07-22T011411.200.json
+
+###
+
+GET http://127.0.0.1:8000/hello/Diallo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-07-22T011011.200.json
+
+###
+
+GET http://127.0.0.1:8000/Diallo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-07-22T010950.404.json
+
+###
+
+GET http://127.0.0.1:8000
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-07-22T010936.200.json
+
+###
+
